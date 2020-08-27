@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Mason Weis
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Internet Man
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://pro2-bar.myportfolio.com/v1/assets/20f61a87-04ea-486a-a872-15375d23f733/9491900d-028a-443f-baf5-dc8a04cec9fb_rwc_16x130x696x335x4096.png?h=409a4f06d7a4998e63690d8dc6ec1f1b
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: msn_ws
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
